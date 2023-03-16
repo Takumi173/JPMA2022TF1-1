@@ -8,7 +8,7 @@
 なお、プログラム間のデータの受け渡しにはGoogle Driveを使用します。
 
 ## 形態素解析器と辞書
-形態素解析器には[Mecab](https://taku910.github.io/mecab/)を使用し、システム辞書に[mecab-ipadic-NEologd](https://github.com/neologd/mecab-ipadic-neologd)を、
+形態素解析器は[Mecab](https://taku910.github.io/mecab/)を使用し、システム辞書に[mecab-ipadic-NEologd](https://github.com/neologd/mecab-ipadic-neologd)を、
 ユーザ辞書に[万病辞書](https://sociocom.naist.jp/manbyou-dic/)を使用させていただきました。
 
 
