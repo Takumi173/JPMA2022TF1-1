@@ -17,5 +17,5 @@
  - [Wikipedia Entity Vectors](https://github.com/singletongue/WikiEntVec)
  - [Pretrained Japanese BERT models](https://github.com/cl-tohoku/bert-japanese)
 
-## 判定対象データ
-判定対象とした文章は[厚生科学審議会 (予防接種・ワクチン分科会 副反応検討部会)](https://www.mhlw.go.jp/stf/shingi/shingi-kousei_284075.html)で公開されている症例経過に記載された文章を一部改変し、タスクフォースで用意した文章と組み合わせて作成いたしました。
+## ラベル付きデータの用意
+[ラベル付きデータ](https://github.com/Takumi173/JPMA2022TF1-1/releases/download/20221226/Training.txt)は[厚生科学審議会 (予防接種・ワクチン分科会 副反応検討部会)](https://www.mhlw.go.jp/stf/shingi/shingi-kousei_284075.html)で公開されている症例経過に記載された文章を一部改変し、タスクフォースで用意した文章と組み合わせて用意しました。
