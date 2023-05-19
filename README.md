@@ -18,8 +18,8 @@
  - [Wikipedia Entity Vectors](https://github.com/singletongue/WikiEntVec)
  - [Pretrained Japanese BERT models](https://github.com/cl-tohoku/bert-japanese)
 
-## ラベル付きデータの用意
-[ラベル付きデータ](https://github.com/Takumi173/JPMA2022TF1-1/releases/download/20221226/Training.txt)は[厚生科学審議会 (予防接種・ワクチン分科会 副反応検討部会)](https://www.mhlw.go.jp/stf/shingi/shingi-kousei_284075.html)で公開されている症例経過に記載された文章を一部改変し、タスクフォースで用意した文章と組み合わせて用意しました。
+## データの用意
+[モデルの構築及び検証に使用したデータ](https://github.com/Takumi173/JPMA2022TF1-1/releases/download/20221226/Training.txt)は[厚生科学審議会 (予防接種・ワクチン分科会 副反応検討部会)](https://www.mhlw.go.jp/stf/shingi/shingi-kousei_284075.html)で公開されている症例経過に記載された文章を一部改変し、タスクフォースで用意した文章と組み合わせて用意しました。
 
 ## ライセンス
 東北大学で作成された事前学習モデルのライセンスを継承し、学習済みモデルは[Creative Commons Attribution-ShareAlike 3.0](https://creativecommons.org/licenses/by-sa/3.0/)の下に配布されます。
