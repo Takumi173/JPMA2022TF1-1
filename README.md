@@ -4,7 +4,7 @@
 
 ## 実行環境
 [Colaboratory](https://colab.research.google.com/?hl=ja)のみで完結します。必要な事前準備はGoogleアカウントの取得のみです。
-各ファイルを開いた後に<img src ="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667">のアイコンをクリックすることでColaboratoryで開けます。
+各ファイルを開いた後に<img src ="https://github.com/Takumi173/JPMA2022TF1-1/assets/109738801/522a6fd7-b171-4ad3-8f56-e73a718a6542">のアイコンをクリックすることでColaboratoryで開けます。
 
 なお、プログラム間のデータの受け渡しにはGoogle Driveを使用します。
 
